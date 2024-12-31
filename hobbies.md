@@ -8,9 +8,7 @@ modified: 9-14-2019
 comments: false
 ---
 
-
-*listening to music
 *watching movie
-*hanging out with friends
+
 
 
