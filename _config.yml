@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "پوررنگ آتشی"
+title                    :"مریم محمدی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "maryam" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -83,10 +83,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : sauleh_e
-facebook:
-  username               : sauleh.eetemadi
+#twitter:
+  username               : maryam
+#facebook:
+ username               : maryammohammadi
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,15 +108,15 @@ analytics:
 # Site Author
 author:
   name             : maryam mohammadi
-  avatar           : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdisney.fandom.com%2Fwiki%2FStitch&psig=AOvVaw3LJrINMikT4p7dL_vjtQeC&ust=1730891113816000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDWhoSGxYkDFQAAAAAdAAAAABAK"
+  avatar           : "C:\git\personal_website_template\assets\images\m.jpg"
   bio              : "I'm studying computer engineering"
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: 
+  email            : 4maryammohammadi@gmail.com
+  #twitter: sauleh_e
+  #linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: maryam
+  #instagram: saulehe
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
