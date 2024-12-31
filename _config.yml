@@ -112,11 +112,11 @@ author:
   bio              : "I'm studying computer engineering"
   location         : "تهران"
   email            : 4maryammohammadi@gmail.com
-  #twitter: sauleh_e
-  #linkedin: 
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: maryam
-  #instagram: saulehe
+  instagram:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
