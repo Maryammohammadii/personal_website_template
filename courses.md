@@ -11,11 +11,11 @@ comments: false
 
 |           | **weekly classes**                  |
 |----|------|--------------------------------|
-||saturday| **|mabani|fizik|zaban|farsi|**  | 
+|saturday| |mabani|fizik|zaban|farsi|**  | 
 |----|------|--------------------------------|
-|sunday| **|kargah|mabani|riazi|**|
+|sunday|   |kargah|mabani|riazi|**|
 |----|------|--------------------------------|
-|monday| ** |sanaat|fizik|zaban|**
+|monday|   |sanaat|fizik|zaban|**
 |----|------|--------------------------------|
-|tuesday | **|kargah|mabani|riazi|farsi|**          |
+|tuesday | |kargah|mabani|riazi|farsi|**          |
 |----|------|-------------------------------|
