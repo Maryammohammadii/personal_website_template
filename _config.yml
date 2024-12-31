@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    :"مریم محمدی"
+title                    : "پوررنگ آتشی"
 title_separator          : "-"
-name                     : "maryam" 
+name                     : "Poorang" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -83,10 +83,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-#twitter:
-  username               : maryam
-#facebook:
- username               : maryammohammadi
+twitter:
+  username               : sauleh_e
+facebook:
+  username               : sauleh.eetemadi
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,16 +108,16 @@ analytics:
 # Site Author
 author:
   name             : maryam mohammadi
-  avatar           : "C:\git\personal_website_template\assets\images\m.jpg"
+  avatar           : ""C:\git\personal_website_template\assets\images\m.jpg""
   bio              : "I'm studying computer engineering"
   location         : "تهران"
-  email            : 4maryammohammadi@gmail.com
-  twitter: maryam
-   linkedin: mrym
+  email            : sauleh@gmail.com
+  twitter: sauleh_e
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: maryam
-  instagram:maryam
-  links:gjbkl,
+  github: sauleh
+  instagram: saulehe
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
