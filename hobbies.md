@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+*listening to music
+*watching movie
+*hanging out with friends
 
 
